@@ -1,0 +1,57 @@
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.application
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Form1.resources
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Resource1.resources
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.Cache
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.application
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe
+C:\Users\Velly\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Form1.resources
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Resource1.resources
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.Cache
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\bin\Debug\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Form1.resources
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.Resource1.resources
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.Cache
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\mhansen-breakout-187ac6f\BreakOut\obj\Debug\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.Form1.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.Properties.Resources.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.Resource1.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.csproj.GenerateResource.Cache
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.starter.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Debug\Avatar BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Debug\Avatar BreakOut.application
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Debug\Avatar BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Debug\Avatar BreakOut.pdb
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\Avatar BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\Avatar BreakOut.application
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\Avatar BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\Avatar BreakOut.pdb
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.help.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Debug\BreakOut.us.resources
+C:\Users\Prince\Documents\My Dropbox\my project\Avatar项目资源\Avatar\BreakOut\obj\Debug\Avatar BreakOut.exe
+C:\Users\Prince\Documents\My Dropbox\my project\Avatar项目资源\Avatar\BreakOut\obj\Debug\Avatar BreakOut.pdb

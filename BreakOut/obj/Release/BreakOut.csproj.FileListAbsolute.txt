@@ -1,0 +1,14 @@
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Release\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Release\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Release\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\bin\Release\Mark Hansen BreakOut.pdb
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\BreakOut.Form1.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\BreakOut.Properties.Resources.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\BreakOut.Resource1.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\BreakOut.starter.resources
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\BreakOut.csproj.GenerateResource.Cache
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\Mark Hansen BreakOut.exe.manifest
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\Mark Hansen BreakOut.application
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\Mark Hansen BreakOut.exe
+C:\Users\Prince\Desktop\Avatar\Avatar\BreakOut\obj\Release\Mark Hansen BreakOut.pdb
